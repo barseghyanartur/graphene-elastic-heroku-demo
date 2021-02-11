@@ -1,0 +1,11 @@
+# App
+uvicorn  # lightning-fast ASGI server implementation
+fastapi  # high performance API framework
+aiofiles  # statics
+elasticsearch>=7.0.2,<8.0
+elasticsearch-dsl>=7.0.0,<8.0
+graphene>=2.1.6,<3.0
+graphene-elastic
+
+# Heroku
+gunicorn

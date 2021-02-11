@@ -1,0 +1,11 @@
+{
+  "name": "graphene-elastic",
+  "description": "graphene-elastic demo",
+  "image": "heroku/python",
+  "repository": "https://github.com/barseghyanartur/graphene-elastic",
+  "keywords": ["python", "fastapi" ],
+  "addons": [],
+  "environments": {
+    "test": {}
+  }
+}
